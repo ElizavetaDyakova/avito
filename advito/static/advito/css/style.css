@@ -1,6 +1,6 @@
 @import url(blocks/header.css);
 @import url(blocks/footer.css);
-@import url(pages/index.css);
+@import url(blocks/index.css);
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
